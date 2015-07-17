@@ -5,24 +5,24 @@ module.exports = {
   pretty: true,
 
   // 基本信息
-  cn_name: '刘志鹏',
-  en_name: 'hustlzp',
-  avatar: 'http://hustlzp-resume.qiniudn.com/avatar.jpg',
-  motto: '以免当我生命结束时，发现自己，从来没有活过。',
-  desc: 'Hello，我是刘志鹏，90年生，目前就读于湖北省关山口男职，研究生二年级。业余大爱Web开发，毕业后决定放弃本专业7年所学，转型互联网。如孟子云：虽千万人，吾往矣。',
+  cn_name: '郑燕南',
+  en_name: 'brucezheng',
+  avatar: 'http://7xkeeu.com1.z0.glb.clouddn.com/QQ截图20150716115233.png',
+  motto: 'Stay Hungry, Stay foolish',
+  desc: '郑燕南，来自江苏南京（六合），目前就读于东南大学机械学院，研究生二年级，爱说会笑，学习Coding中。',
 
   // 页面代码的GitHub地址
-  code: 'https://github.com/hustlzp/resume',
+  code: 'https://github.com/Southswallows/resume',
   // banner背景图片
-  bg: 'http://hustlzp-resume.qiniudn.com/sea.jpg',
+  bg: 'http://7xkeeu.com1.z0.glb.clouddn.com/1.jpg',
   // 页面最后更新时间
   update: date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate(),
 
   // 求职意向
-  city_image: 'http://hustlzp-resume.qiniudn.com/shanghai.gif',
+  city_image: 'https://github.com/Southswallows/resume/raw/master/image/shanghai.gif',
   expectations: [
     '城市：上海',
-    '看重专业出身，请勿扰',
+    '岗位：产品经理',
     '公司产品的价值观与个人价值观没有严重分歧',
     '有神一样的队友，能够得到快速成长',
     '开明、活跃、默契的团队氛围',
@@ -33,27 +33,27 @@ module.exports = {
   contacts: [
     {
       title: 'Blog',
-      link: 'http://hustlzp.com',
-      image: 'http://hustlzp-resume.qiniudn.com/blog.png'
+      link: 'http://yannan.me/',
+      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/blog.png'
     },
     {
       title: 'GitHub',
       link: 'https://github.com/hustlzp',
-      image: 'http://hustlzp-resume.qiniudn.com/github.png'
+      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/github.png'
     },
+    // {
+    //   title: 'V2EX',
+    //   link: 'https://www.v2ex.com/member/hustlzp',
+    //   image: 'http://hustlzp-resume.qiniudn.com/v2ex.png'
+    // },
+    // {
+    //   title: '豆瓣',
+    //   link: 'http://www.douban.com/people/hustlzp',
+    //   image: 'http://hustlzp-resume.qiniudn.com/douban.png'
+    // },
     {
-      title: 'V2EX',
-      link: 'https://www.v2ex.com/member/hustlzp',
-      image: 'http://hustlzp-resume.qiniudn.com/v2ex.png'
-    },
-    {
-      title: '豆瓣',
-      link: 'http://www.douban.com/people/hustlzp',
-      image: 'http://hustlzp-resume.qiniudn.com/douban.png'
-    },
-    {
-      title: 'hustlzp@qq.com',
-      image: 'http://hustlzp-resume.qiniudn.com/email.png'
+      title: 'Southswallows@gmail.com',
+      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/email.png'
     }
   ],
 
@@ -173,12 +173,12 @@ module.exports = {
   // 教育
   educations: [
     {
-      period: '2012.9 - 至今',
-      title: '华中科技大学，光电学院 光电信息工程，硕士'
+      period: '2013.9 - 至今',
+      title: '东南大学，机械学院 机械电子工程，硕士'
     },
     {
-      period: '2008.9 - 2012.6',
-      title: '华中科技大学，光电学院 光电信息工程，学士'
+      period: '2009.9 - 2013.6',
+      title: '浙江工业大学，机械学院 机械工程及自动化工程，学士'
     }
   ]
 };
