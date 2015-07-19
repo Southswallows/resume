@@ -19,7 +19,7 @@ module.exports = {
   update: date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate(),
 
   // 求职意向
-  city_image: 'https://github.com/Southswallows/resume/raw/master/image/shanghai.gif',
+  city_image: 'http://7xkeeu.com1.z0.glb.clouddn.com/shanghai.gif',
   expectations: [
     '城市：上海',
     '岗位：产品经理',
@@ -34,12 +34,12 @@ module.exports = {
     {
       title: 'Blog',
       link: 'http://yannan.me/',
-      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/blog.png'
+      image: 'http://7xkeeu.com1.z0.glb.clouddn.com/blog.png'
     },
     {
       title: 'GitHub',
-      link: 'https://github.com/hustlzp',
-      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/github.png'
+      link: 'https://github.com/Southswallows',
+      image: 'http://7xkeeu.com1.z0.glb.clouddn.com/github.png'
     },
     // {
     //   title: 'V2EX',
@@ -53,7 +53,7 @@ module.exports = {
     // },
     {
       title: 'Southswallows@gmail.com',
-      image: 'https://github.com/Southswallows/resume/raw/master/image/icons/email.png'
+      image: 'http://7xkeeu.com1.z0.glb.clouddn.com/email.png'
     }
   ],
 

@@ -21,7 +21,7 @@ Usage:
 **resume文件夹内安装gulp、gade**
 		
 		npm install --save-dev gulp
-		npm install gade
+		npm install jade
 **修改`data.js`**
 
 **编译**
